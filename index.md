@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 我是世界上最帅的人 哈哈哈啊
-
+http://ns-strategy.cdn.bcebos.com/ns-strategy/upload/applvyou_banquan2408/part-01743-1505.jpg
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
